@@ -9,4 +9,4 @@ PIL
 
 tkinter
 
-With zer0O0O0
+With zer0O0O0 && povarpovar
