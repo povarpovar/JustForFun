@@ -8,3 +8,5 @@ pyqrcode
 PIL
 
 tkinter
+
+With zer0O0O0
